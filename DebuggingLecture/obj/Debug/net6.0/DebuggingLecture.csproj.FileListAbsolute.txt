@@ -1,0 +1,15 @@
+C:\Users\osabd\source\repos\DebuggingLecture\DebuggingLecture\bin\Debug\net6.0\DebuggingLecture.exe
+C:\Users\osabd\source\repos\DebuggingLecture\DebuggingLecture\bin\Debug\net6.0\DebuggingLecture.deps.json
+C:\Users\osabd\source\repos\DebuggingLecture\DebuggingLecture\bin\Debug\net6.0\DebuggingLecture.runtimeconfig.json
+C:\Users\osabd\source\repos\DebuggingLecture\DebuggingLecture\bin\Debug\net6.0\DebuggingLecture.dll
+C:\Users\osabd\source\repos\DebuggingLecture\DebuggingLecture\bin\Debug\net6.0\DebuggingLecture.pdb
+C:\Users\osabd\source\repos\DebuggingLecture\DebuggingLecture\obj\Debug\net6.0\DebuggingLecture.csproj.AssemblyReference.cache
+C:\Users\osabd\source\repos\DebuggingLecture\DebuggingLecture\obj\Debug\net6.0\DebuggingLecture.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\osabd\source\repos\DebuggingLecture\DebuggingLecture\obj\Debug\net6.0\DebuggingLecture.AssemblyInfoInputs.cache
+C:\Users\osabd\source\repos\DebuggingLecture\DebuggingLecture\obj\Debug\net6.0\DebuggingLecture.AssemblyInfo.cs
+C:\Users\osabd\source\repos\DebuggingLecture\DebuggingLecture\obj\Debug\net6.0\DebuggingLecture.csproj.CoreCompileInputs.cache
+C:\Users\osabd\source\repos\DebuggingLecture\DebuggingLecture\obj\Debug\net6.0\DebuggingLecture.dll
+C:\Users\osabd\source\repos\DebuggingLecture\DebuggingLecture\obj\Debug\net6.0\refint\DebuggingLecture.dll
+C:\Users\osabd\source\repos\DebuggingLecture\DebuggingLecture\obj\Debug\net6.0\DebuggingLecture.pdb
+C:\Users\osabd\source\repos\DebuggingLecture\DebuggingLecture\obj\Debug\net6.0\DebuggingLecture.genruntimeconfig.cache
+C:\Users\osabd\source\repos\DebuggingLecture\DebuggingLecture\obj\Debug\net6.0\ref\DebuggingLecture.dll
